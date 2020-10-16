@@ -11,7 +11,7 @@ class User{
 
   void birthday() {
     
-    _age++;
+    _age--;
   }
 
   void changeName(String newName){

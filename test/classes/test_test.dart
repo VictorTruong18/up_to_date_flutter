@@ -10,7 +10,7 @@ void main() {
     user.birthday();
 
     //ASSERT
-    expect(user.age, 25);
+    expect(user.age, 27);
 
   });
 }
