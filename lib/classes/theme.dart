@@ -1,0 +1,7 @@
+
+
+enum Subject {
+  CRYPTOS,
+  ACTUALITE,
+
+}
